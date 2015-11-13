@@ -1,2 +1,1 @@
-# lijunni.github.io
-Jun Ni Page
+Just Personal Page
