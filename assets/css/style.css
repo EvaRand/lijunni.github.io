@@ -10,6 +10,10 @@ p {
   font-size: 10pt;
   line-height: 17pt;
 }
+
+.container {
+  width: 900px !important;
+}
 a {
   color: #ffffff;
 }
